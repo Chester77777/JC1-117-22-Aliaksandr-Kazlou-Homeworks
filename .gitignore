@@ -1,0 +1,5 @@
+# Intelij IDEA
+.idea/
+
+# Build
+out/

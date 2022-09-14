@@ -2,8 +2,8 @@ package lesson03;
 
 public class Task04 {
     public static void main(String[] args) {
-        int WhatTimeNow = 24;
-        switch (WhatTimeNow) {
+        int whatTimeNow = 24;
+        switch (whatTimeNow) {
             case 24:
             case 0:
             case 1:

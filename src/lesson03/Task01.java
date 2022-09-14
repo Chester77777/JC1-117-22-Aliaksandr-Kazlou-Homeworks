@@ -2,8 +2,8 @@ package lesson03;
 
 public class Task01 {
     public static void main(String[] args) {
-        int DayOfWeek = 10;
-        switch (DayOfWeek) {
+        int dayOfWeek = 5;
+        switch (dayOfWeek) {
             case 1:
                 System.out.println("This is Monday.");
                 break;
